@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">download-android</string>
+    <string name="downloaded">Файл скачан!</string>
+    <string name="download">Скачать</string>
+    <string name="hint">Вставьте ссылку на файл</string>
+    <string name="error">Такого файла не сущесвует</string>
+</resources>
